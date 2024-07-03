@@ -16,4 +16,4 @@ This project serves as a practical example of integrating HTML for structure, CS
 
 
 
-<p>you can see the demo here &nbsp; <a href="https://nagasai1525.github.io/PRODIGY_WD_03/">DEMO </a></p>
+<p>You can view the live example here &nbsp; <a href="https://nagasai1525.github.io/PRODIGY_WD_03/">LIVE </a></p>
